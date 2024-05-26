@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tYzDD6WcyPwMrJowrr6SaiQzfy7bz4vhK+vAVk0UpS+Ld4IfUKNcUbe1ilRuoutDV+9RhtFM7UxKTyYF9lhnZw==",
+  "success": true,
+  "projectFilePath": "D:\\Crud Operation\\megamind\\megamind.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ABC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ABC\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\ABC\\.nuget\\packages\\npgsql\\8.0.3\\npgsql.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
